@@ -11,7 +11,7 @@ Python 3.6.4
 # Installation
 
 1. Download all the files from https://github.com/N1c0r3/GuessANumber/
-2. Extract the files one and the same folder
+2. Extract the files in one and the same folder
 3. Run the file (e.g with IDLE)
 
 
