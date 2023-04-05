@@ -28,8 +28,8 @@ Make sure you have the following packages with Python:
 
 # Usage
 
-GuessTheNumber is a game, where you have to guess a number between 1 and 100. Write Y to start and N to exit the game
-The game gives you 60 Secconds. If you dont guess the number in this timeframe you will lose and have the Option to restart or exit the game. 
+GuessTheNumber is a game, where you have to guess a number between 1 and 100. Write Y to start and N to exit the game.
+The game gives you 60 Secconds time. If you dont guess the number in this timeframe you will lose and have the Option to restart or exit the game. 
 The game lets you know if an input is invalid or a number is outside the range. Incorrect entries wont count as a try. But keep in mind you only have 60 seconds to guess the number.
 You can just write Quit to quit the game during a guessing run.
 
